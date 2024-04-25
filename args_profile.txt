@@ -1,0 +1,11 @@
+wgsdatapath=./data/wgs/
+pathwaypath=./data/pathway/
+ppipath=./data/ppi/physicalppi.txt
+drugpath=./data/GDSC/GDSC.csv
+resultpath=./data/results/'
+sourcepath=./data
+walknum = 5000
+L=10
+dim=128
+window=3
+Drug=True
