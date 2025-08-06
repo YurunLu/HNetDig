@@ -1,0 +1,261 @@
+Number	Sample_ID	Sample_ID	Cohort	RNA_subtype	Proteomics_subtype	Glycan_subtype	Chemo_subtype
+1	DAC-1	PC-2	Discovery	Classical-like	Glycan-L	Low	S
+2	DAC-2	PC-5	Discovery	Hybrid-B	Glycan-M	Low	S
+3	DAC-4	PC-13	Discovery	Classical-like	Glycan-L	Low	I
+4	DAC-5	PC-14	Discovery	Classical-like	Glycan-M	High	R
+5	DAC-6	PC-16	Discovery	Basal-like	Glycan-H	Low	S
+6	DAC-7	PC-18	Discovery	Classical-like	Glycan-H	Low	R
+7	DAC-10	PC-34	Discovery			Low	I
+8	DAC-13	PC-56	Discovery	Basal-like	Glycan-H	Low	S
+9	DAC-14	PC-64	Discovery	Basal-like	Glycan-M	Low	S
+10	DAC-16	PC-81	Discovery	Basal-like	Glycan-H	Low	I
+11	DAC-18	PC-97	Discovery	Classical-like	Glycan-M	Low	S
+12	DAC-20	PC-101	Discovery	Classical-like	Glycan-L	Low	S
+13	DAC-21	PC-102	Discovery	Basal-like	Glycan-L	Low	S
+14	DAC-22	PC-104	Discovery	Hybrid-B	Glycan-H	Low	R
+15	DAC-23	PC-105	Discovery	Basal-like	Glycan-H	Low	R
+16	DAC-24	PC-109	Discovery	Basal-like	Glycan-M	Low	S
+17	DAC-25	PC-111	Discovery	Basal-like	Glycan-H	High	R
+18	DAC-26	PC-112	Discovery	Basal-like	Glycan-M	Low	S
+19	DAC-28	PC-116	Discovery	Basal-like	Glycan-H	High	I
+20	DAC-29	PC-117	Discovery	Hybrid-B	Glycan-L	Low	I
+21	DAC-30	PC-119	Discovery	Classical-like	Glycan-L	Low	I
+22	DAC-31	PC-121	Discovery	Basal-like	Glycan-L	High	I
+23	DAC-32	PC-130	Discovery	Classical-like	Glycan-M	Low	S
+24	DAC-33	PC-134	Discovery	Hybrid-B	Glycan-M	Low	I
+25	DAC-34	PC-135	Discovery	Classical-like	Glycan-L	Low	I
+26	DAC-35	PC-136	Discovery	Classical-like	Glycan-L	Low	S
+27	DAC-36	PC-139	Discovery	Basal-like	Glycan-M	High	R
+28	DAC-37	PC-G	Discovery	Hybrid-B	Glycan-L	Low	S
+29	DAC-38	PC-L	Discovery	Classical-like	Glycan-L	Low	R
+30	DAC-39	PC-I	Discovery	Hybrid-B	Glycan-L	Low	I
+31	DAC-42	PC-100	Discovery	Basal-like	Glycan-H	High	I
+32	DAC-49	PDAC-3	Discovery			Low	S
+33	DAC-50	PC-17	Discovery	Classical-like	Glycan-M	Low	S
+34	DAC-51	PC-26	Discovery			Low	S
+35	DAC-52	PC-125	Discovery	Basal-like	Glycan-M	High	
+36	DAC-53	PC-132	Discovery	Classical-like	Glycan-L	Low	S
+37	DAC-54	PC-133	Discovery	Basal-like	Glycan-H	High	R
+38	DAC-55	BCB-4	Discovery	Classical-like	Glycan-M	High	S
+39	DAC-56	BCB-8	Discovery	Basal-like	Glycan-L	Low	S
+40	DAC-57	BCB-11	Discovery	Basal-like	Glycan-H	Low	I
+41	DAC-58	BCB-22	Discovery	Classical-like	Glycan-L	Low	I
+42	DAC-59	BCB-23	Discovery			Low	I
+43	DAC-60	BCB-25	Discovery	Basal-like	Glycan-M	Low	R
+44	DAC-61	BCB-31	Discovery	Basal-like	Glycan-M	High	I
+45	DAC-62	BCB-33	Discovery	Classical-like	Glycan-M	High	S
+46	DAC-63	PDAC-2	Discovery	Classical-like	Glycan-L	Low	I
+47	DAC-64	PDAC-5	Discovery	Hybrid-B	Glycan-H	High	R
+48	DAC-65	PDAC-6	Discovery	Basal-like	Glycan-L	High	R
+49	DAC-66	PDAC-7	Discovery	Classical-like	Glycan-L	Low	I
+50	DAC-67	PDAC-10	Discovery	Classical-like	Glycan-H	Low	I
+51	DAC-68	PDAC-11	Discovery	Classical-like	Glycan-H	High	I
+52	DAC-69	PDAC-12	Discovery	Classical-like	Glycan-L	Low	S
+53	DAC-70	PDAC-14	Discovery	Classical-like	Glycan-M	High	S
+54	DAC-71	PDAC-15	Discovery	Basal-like	Glycan-H	High	R
+55	DAC-72	PDAC-16	Discovery	Classical-like	Glycan-M	High	R
+56	DAC-73	PDAC-20	Discovery	Basal-like	Glycan-H	High	R
+57	DAC-75	PDAC-17	Discovery	Hybrid-B	Glycan-M	Low	I
+58	DAC-76	PDAC-18	Discovery	Hybrid-A	Glycan-H	Low	R
+59	DAC-77	PDAC-19	Discovery	Basal-like	Glycan-M	High	S
+60	DAC-78	PDAC-22	Discovery	Classical-like	Glycan-H	High	R
+61	DAC-79	PDAC-26	Discovery	Basal-like	Glycan-H	High	I
+62	DAC-80	PDAC-39	Discovery	Basal-like	Glycan-H	High	R
+63	DAC-81	PDAC-42	Discovery	Classical-like	Glycan-L	High	S
+64	DAC-82	PDAC-46	Discovery	Classical-like	Glycan-L	Low	I
+65	DAC-83	BCB-3	Discovery	Basal-like	Glycan-M	Low	S
+66	DAC-84	BCB-13	Discovery	Basal-like	Glycan-M	High	S
+67	DAC-85	BCB-15	Discovery	Classical-like	Glycan-M	Low	R
+68	DAC-86	BCB-34	Discovery	Classical-like	Glycan-M	High	I
+69	DAC-87	BCB-35	Discovery			High	R
+70	DAC-88	BCB-37	Discovery	Classical-like	Glycan-L	High	S
+71	DAC-89	BCB-38	Discovery	Hybrid-A			
+72	DAC-90	PC-7	Discovery	Hybrid-A	Glycan-L	Low	R
+73	DAC-92	PC-113	Discovery	Classical-like	Glycan-L	Low	R
+74	DAC-93	PC-K	Discovery				
+75	DAC-95	BCB-5	Discovery	Hybrid-A	Glycan-H	High	S
+76	DAC-96	BCB-28	Discovery	Classical-like	Glycan-L	Low	S
+77	DAC-97	PDAC-1	Discovery	Hybrid-A	Glycan-L	High	R
+78	DAC-98	PDAC-9	Discovery	Basal-like	Glycan-L	Low	S
+79	DAC-99	PDAC-13	Discovery	Hybrid-A	Glycan-L	High	R
+80	DAC-100	PDAC-15	Discovery				
+81	DAC-101	PDAC-25	Discovery	Hybrid-B	Glycan-M	Low	R
+82	DAC-102	PDAC-29	Discovery	Classical-like	Glycan-L	Low	I
+83	DAC-103	PDAC-50M	Discovery	Classical-like	Glycan-L	Low	R
+84	DAC-104	PDAC-51	Discovery	Basal-like	Glycan-M	High	I
+85	DAC-105	PDAC-59	Discovery	Classical-like	Glycan-H	High	I
+86	DAC-106	PDAC-60	Discovery	Classical-like	Glycan-L	Low	S
+87	DAC-107	PDAC-61	Discovery	Classical-like	Glycan-L	Low	I
+88	DAC-109	PDAC-67	Discovery			High	R
+89	DAC-110	PDAC-69	Discovery	Basal-like			
+90	DAC-111	PDAC-74	Discovery	Hybrid-A	Glycan-L	High	R
+91	DAC-112	PDAC-79	Discovery	Classical-like	Glycan-M	High	R
+92	DAC-113	PDAC-36	Discovery	Basal-like	Glycan-M	High	R
+93	DAC-114	PDAC-43	Discovery	Basal-like			
+94	DAC-115	PDAC-82A	Discovery	Classical-like	Glycan-L	Low	S
+95	DAC-116	PDAC-84	Discovery	Hybrid-A	Glycan-M	High	R
+96	DAC-117	PC-141	Discovery	Basal-like			R
+97	DAC-118	PC-149	Discovery	Basal-like	Glycan-H	High	R
+98	DAC-119	PDAC-63	Discovery	Classical-like	Glycan-H	High	
+99	DAC-120	PDAC-83	Discovery	Classical-like			
+100	DAC-121	PDAC-8	Discovery	Basal-like	Glycan-M	High	I
+101	DAC-122	PDAC-32	Discovery	Basal-like	Glycan-H	High	R
+102	DAC-123	PDAC-48	Discovery	Hybrid-A	Glycan-L	High	I
+103	DAC-124	PDAC-57	Discovery	Classical-like	Glycan-M	High	R
+104	DAC-125	PDAC-71	Discovery	Hybrid-A	Glycan-M	High	
+105	DAC-126	PDAC-78	Discovery	Basal-like	Glycan-L	Low	I
+106	DAC-127	PDAC-86	Discovery	Hybrid-B			R
+107	DAC-128	PDAC-87	Discovery				
+108	DAC-129	PDAC-89	Discovery	Hybrid-A	Glycan-L	Low	
+109	DAC-133	PAC-3	Discovery	Classical-like			
+110	DAC-134	PAC-5	Discovery	Basal-like			S
+111	DAC-135	PAC-6	Discovery	Basal-like			R
+112	DAC-136	PAC-7	Discovery	Hybrid-B			S
+113	DAC-137	PAC-7M	Discovery	Basal-like			R
+114	DAC-138	PAC-11	Discovery	Hybrid-A			R
+115	DAC-141	PAC-27	Discovery	Hybrid-A			I
+116	DAC-142	PAC-30	Discovery	Hybrid-B			S
+117	DAC-143	PAC-32	Discovery	Basal-like			I
+118	DAC-144	PAC-32M	Discovery	Hybrid-B			I
+119	DAC-145	PAC-33	Discovery	Classical-like			I
+120	DAC-146	PAC-34	Discovery	Hybrid-A			R
+121	DAC-147	PAC-35	Discovery	Basal-like			I
+122	DAC-148	PAC-37	Discovery	Hybrid-B			S
+123	DAC-149	PAC-41	Discovery	Basal-like			I
+124	DAC-151	PAC-43	Discovery	Basal-like			R
+125	DAC-152	PAC-44	Discovery	Basal-like			R
+126	DAC-153	PAC-45	Discovery	Hybrid-B			I
+127	DAC-154	PAC-46	Discovery	Hybrid-B			R
+128	DAC-155	PAC-47	Discovery	Hybrid-A			
+129	DAC-156	PAC-48	Discovery	Classical-like			I
+130	DAC-157	PAC-52	Discovery	Hybrid-A			
+131	DAC-158	PAC-54	Discovery	Classical-like			R
+132	DAC-159	PAC-55	Discovery	Classical-like			I
+133	DAC-160	PAC-57	Discovery	Classical-like			R
+134	DAC-161	PAC-59	Discovery	Classical-like			R
+135	DAC-162	PAC-60	Discovery	Hybrid-B			S
+136	DAC-163	PAC-61	Discovery	Hybrid-B			
+137	DAC-164	PAC-62	Discovery	Classical-like			S
+138	DAC-165	PAC-63	Discovery	Hybrid-B			I
+139	DAC-166	PAC-69	Discovery	Hybrid-A			R
+140	DAC-167	PAC-74	Discovery	Hybrid-B			I
+141	DAC-168	PAC-82	Discovery	Basal-like			R
+142	DAC-169	PAC-86	Discovery	Hybrid-B			
+143	DAC-170	PAC-99	Discovery	Hybrid-B			I
+144	DAC-171	PAC-101	Discovery	Basal-like			I
+145	DAC-172	PAC-102	Discovery	Hybrid-A			I
+146	DAC-173	PAC-106	Discovery	Basal-like			I
+147	DAC-174	PAC-108	Discovery	Hybrid-B			S
+148	DAC-175	PAC-110	Discovery	Basal-like			I
+149	DAC-176	PAC-114	Discovery	Basal-like			S
+150	DAC-177	PAC-116	Discovery	Hybrid-A			I
+151	DAC-178	PAC-117	Discovery	Classical-like			R
+152	DAC-179	PAC-118	Discovery	Basal-like			S
+153	DAC-181	PAC-121	Discovery	Classical-like			S
+154	DAC-182	PAC-123	Discovery	Hybrid-A			R
+155	DAC-183	PAC-124	Discovery				
+156	DAC-184	PAC-125	Discovery	Basal-like			I
+157	DAC-185	PAC-126	Discovery	Hybrid-A			R
+158	DAC-186	PAC-127	Discovery	Hybrid-B			I
+159	DAC-187	PAC-128	Discovery	Hybrid-B			I
+160	DAC-188	PAC-129	Discovery	Classical-like			I
+161	DAC-189	PAC-134	Discovery	Classical-like			S
+162	DAC-190	PAC-138	Discovery	Hybrid-B			R
+163	DAC-191	PAC-139	Discovery	Hybrid-B			S
+164	DAC-192	PAC-141	Discovery	Hybrid-A			R
+165	DAC-193	PAC-144	Discovery	Hybrid-B			S
+166	DAC-194	PAC-146	Discovery	Hybrid-A			S
+167	DAC-195	PAC-148	Discovery	Classical-like			I
+168	DAC-197	PAC-153	Discovery	Hybrid-A			R
+169	DAC-198	PAC-154	Discovery	Hybrid-A			I
+170	DAC-199	PAC-155	Discovery	Hybrid-B			R
+171	DAC-200	PAC-156	Discovery	Classical-like			I
+172	DAC-201	PAC-157	Discovery	Basal-like			
+173	DAC-202	PAC-159	Discovery	Basal-like			R
+174	DAC-203	PAC-160	Discovery	Hybrid-A			
+175	DAC-204	PAC-164	Discovery	Hybrid-B			S
+176	DAC-205	PAC-166	Discovery	Hybrid-A			R
+177	DAC-206	PAC-169	Discovery	Basal-like			R
+178	DAC-207	PAC-170	Discovery	Hybrid-B			S
+179	DAC-208	PAC-173	Discovery	Hybrid-A			R
+180	DAC-209	PAC-177	Discovery	Hybrid-A			R
+181	DAC-210	PAC-175	Discovery	Hybrid-B			R
+182	DAC-211	PAC-178	Discovery	Hybrid-A			I
+183	DAC-212	PAC-179	Discovery				I
+184	DAC-213	PAC-182	Discovery	Hybrid-A			S
+185	DAC-214	PAC-185	Discovery	Hybrid-A			R
+186	DAC-215	PAC-187	Discovery	Basal-like			R
+187	DAC-216	PAC-190	Discovery	Basal-like			I
+188	DAC-217	PAC-193	Discovery	Hybrid-A			S
+189	DAC-218	PAC-194	Discovery	Hybrid-B			S
+190	DAC-219	PAC-196	Discovery	Hybrid-A			R
+191	DAC-223	PAC-195	Discovery	Hybrid-B			S
+192	DAC-224	PAC-200	Discovery	Hybrid-B			S
+193	DAC-225	PAC-192	Discovery				
+194	DAC-226	PAC-120	Discovery				R
+195	DAC-227	PAC-119	Discovery				
+196	DAC-228	PAC-19	Discovery				
+197	DAC-229	PAC-84	Discovery				
+198	DAC-230	PDAC-F9	Validate				
+199	DAC-231	PAC-203	Validate				
+200	DAC-232	PAC-208	Validate				
+201	DAC-233	PAC-209	Validate				
+202	DAC-234	PAC-212	Validate				
+203	DAC-235	PAC-227	Validate				
+204	DAC-236	PAC-229	Validate				
+205	DAC-237	PAC-233	Validate				
+206	DAC-238	PAC-234	Validate				
+207	DAC-239	PAC-239	Validate				
+208	DAC-240	PAC-240	Validate				
+209	DAC-241	PAC-243	Validate				
+210	DAC-242	PAC-245	Validate				
+211	DAC-243	PAC-246	Validate				
+212	DAC-244	PAC-248	Validate				
+213	DAC-245	PAC-249	Validate				
+214	DAC-246	PAC-250	Validate				
+215	DAC-247	PAC-251	Validate				
+216	DAC-248	PAC-253	Validate				
+217	DAC-249	PAC-257	Validate				
+218	DAC-250	PAC-260	Validate				
+219	DAC-251	PAC-264	Validate				
+220	DAC-252	PAC-265	Validate				
+221	DAC-253	PAC-268	Validate				
+222	DAC-254	PAC-269	Validate				
+223	DAC-255	PAC-270	Validate				
+224	DAC-256	PAC-271	Validate				
+225	DAC-257	PAC-273	Validate				
+226	DAC-258	PAC-274	Validate				
+227	DAC-259	PAC-275	Validate				
+228	DAC-260	PAC-277	Validate				
+229	DAC-261	PAC-278	Validate				
+230	DAC-262	PAC-279	Validate				
+231	DAC-263	PAC-280	Validate				
+232	DAC-264	PAC-281	Validate				
+233	DAC-265	PAC-290	Validate				
+234	DAC-266	PAC-291	Validate				
+235	DAC-267	PAC-293	Validate				
+236	DAC-268	PAC-294	Validate				
+237	DAC-269	PAC-295	Validate				
+238	DAC-270	PAC-297	Validate				
+239	DAC-271	PAC-301	Validate				
+240	DAC-272	PAC-302	Validate				
+241	DAC-273	PAC-308	Validate				
+242	DAC-274	PAC-311	Validate				
+243	DAC-275	PAC-312	Validate				
+244	DAC-276	PAC-314	Validate				
+245	DAC-277	PAC-315	Validate				
+246	DAC-278	PAC-316	Validate				
+247	DAC-279	PAC-317	Validate				
+248	DAC-280	PAC-324	Validate				
+249	DAC-281	PAC-326	Validate				
+250	DAC-282	PAC-327	Validate				
+251	DAC-283	PAC-328	Validate				
+252	DAC-284	PAC-329	Validate				
+253	DAC-285	PAC-331	Validate				
+254	DAC-286	PAC-331M	Validate				
+255	DAC-287	PAC-333	Validate				
+256	DAC-288	PAC-339	Validate				
+257	DAC-289	PAC-341	Validate				
+258	DAC-290	PAC-343	Validate				
+259	DAC-291	PAC-352	Validate				
+260	DAC-292	PAC-358	Validate				
